@@ -1,0 +1,52 @@
+<h2><span style="color: #ffb74d;">Your Results Last Week</span></h2>
+<table style="width: 608px; margin: 0px auto; background-color: #ffffff; border-collapse: collapse; border: 1px solid rgba(0, 0, 0, 0.2); box-shadow: rgba(0, 0, 0, 0.25) 0px 2px 10px 0px; font-size: 16px;">
+<tbody>
+<tr>
+<td style="width: 50%;">
+<h3 style="text-align: center;"><strong>Revenue Increase</strong></h3>
+</td>
+</tr>
+<tr style="height: 61px;">
+<td style="width: 50%; text-align: center;">{{account.potential_value}}</td>
+</tr>
+</tbody>
+</table>
+<div style="margin-bottom: 40px;">
+<h2><span style="color: #ffb74d;">How That Happened</span></h2>
+<table style="width: 999px; margin: 0px auto; background-color: #ffffff; border-collapse: collapse; border: 1px solid rgba(0, 0, 0, 0.2); height: 202px;">
+<tbody>
+<tr style="height: 36px;">
+<td style="height: 36px;">
+<div style="text-align: center;"><strong>Weekly Engagements</strong></div>
+</td>
+<td style="height: 36px;">
+<div style="text-align: center;"><strong>Monthly Active Users</strong></div>
+</td>
+<td style="padding: 20px; width: 398px; height: 36px;">
+<div style="text-align: center;"><strong>%&nbsp;Users Active</strong></div>
+</td>
+</tr>
+<tr style="height: 50.6875px;">
+<td style="padding: 15px 15px 25px; width: 398px; height: 50.6875px;">
+<h2>{{account.custom_properties['58f7f6660888df4f5e3fc9a6']}}</h2>
+</td>
+<td style="padding: 15px 15px 25px; width: 398px; height: 50.6875px; text-align: center;">
+<h2>{{account.custom_properties['58f7f4b57ceabd3ccaa87a34']}}</h2>
+</td>
+<td style="padding: 15px 15px 25px; width: 398px; height: 50.6875px;">
+<h2>{{account.custom_properties['58f7f6167ceabd3ccaa87b6a']}}</h2>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="margin-bottom: 40px;">
+<h1><span style="color: #ffb74d;">Acme Monthly&nbsp;Product Update</span></h1>
+<p>Acme&nbsp;announced some very exciting new reporting tools last month. One of the most requested features is the ability to create a TV-ready dashboard. Learn more about TV dashboards <a title="TV  dashboards blog" href="https://blog.modeanalytics.com/design-tips-for-office-displays/" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p><img class="CToWUd a6T" tabindex="0" src="https://storage.googleapis.com/amity_images/email_templates/dashboard-design-dashboard-og.png" alt="TV Dashboard" width="500" height="226" /></p>
+<p style="margin: 25px 0px;">You can now create your own report filters. You can learn more about filters <a title="Report Filters Blog" href="https://about.modeanalytics.com/code-free-data-exploration/" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p><img style="background-color: #fff;" src="https://storage.googleapis.com/amity_images/email_templates/filters.png" alt="Report Filters" width="500" height="229" /></p>
+<p>&nbsp;</p>
+<p style="text-align: left;">Sincerely,</p>
+<p style="text-align: left;">{% include 'signature' %}</p>
+</div>
