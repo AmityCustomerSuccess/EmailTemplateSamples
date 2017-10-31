@@ -1,0 +1,8 @@
+<p>Dear&nbsp;{{recipient.first_name}}&nbsp;:</p>
+<p>&nbsp;</p>
+<p>We're thrilled to welcome&nbsp;{{account.name}}&nbsp;to the Amity customer family!</p>
+<p>I wanted to introduce myself as your dedicated Customer Success Manager. If anything ever comes up, feel free to reach out by email ({{sender.email}}) or phone ({{sender.phone1}}).&nbsp;</p>
+<p>Let's go ahead and schedule&nbsp;our onboarding kick-off call. Do you have any availabilities for 30 minutes chat this week?</p>
+<p>&nbsp;</p>
+<p>Best,</p>
+<p>Mathilde Augustin</p>
