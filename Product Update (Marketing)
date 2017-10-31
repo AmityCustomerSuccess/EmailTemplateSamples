@@ -1,0 +1,39 @@
+<table style="background-color: #f2f2f2; width: 100%; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td>
+<p>&nbsp; &nbsp;&nbsp;<img src="http://resources.getamity.com/hubfs/Amity%20Logo%20360x160.png" alt="Amity Logo" width="150" height="66" /></p>
+<img style="display: block; margin-left: auto; margin-right: auto;" src="http://resources.getamity.com/hubfs/Fall%202017%20Product%20Update%20v4.png" width="600" height="286" />
+<table style="background-color: #ffffff; width: 600px; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="vertical-align: top;">
+<table style="width: 500px; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td>
+<p>Hi {{recipient.first_name}},</p>
+<p>We've released some exciting product improvements and brand new features on the Amity platform. A few of our shiniest updates include:</p>
+<ul>
+<li>View-specific column displays and sort orders</li>
+<li>Cloning views and rules</li>
+<li>Introducing account roles</li>
+</ul>
+<p>But that's not all! Check out the&nbsp;<a href="http://customer-success.getamity.com/h/i/364814363-amity-fall-2017-product-updates" target="_blank" rel="noopener noreferrer">full blog post</a>&nbsp;to see all the new tools you can use.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><span style="color: #3c73b6;"><a style="color: #fff; background-color: #3c73b6; font-size: 18px; text-decoration: none; border: 1px solid #9f78a0; padding: 12px; border-radius: 5%;" href="http://customer-success.getamity.com/h/i/364814363-amity-fall-2017-product-updates" target="_blank" rel="noopener noreferrer">READ MORE</a></span></div>
+<div style="text-align: center;"><br />&nbsp;</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
